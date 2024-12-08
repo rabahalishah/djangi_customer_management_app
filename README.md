@@ -1,1 +1,1 @@
-# djangi_customer_management_app
+# django_customer_management_app
