@@ -1,0 +1,1 @@
+# djangi_customer_management_app
